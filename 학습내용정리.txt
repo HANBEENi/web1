@@ -1,0 +1,28 @@
+https://www.inflearn.com/course/%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%9B%B9-%EC%BD%94%EB%94%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%9C%EC%9E%91-web-1/lecture/8669?tab=curriculum
+인프런
+컴퓨터,웹,코딩,프로그래밍의 시작 - Web1
+
+5강. HTML코딩과 실습환경 준비
+
+사용프로그램 : ATOM
+1) 바탕화면 파일 생성 'web'
+2) 프로그램 실행 후 open folder -> 바탕화면\web
+3) web 에서 new file -> '1.html' 생성
+4) 실제 인터넷 브라우저에서 1.html 확인
+	(1) 브라우저에서 ctrl+o 후 1.html 열기
+5) 1.html 파일에서 hello web 입력+저장 -> 1.html브라우저 새로고침 확인
+
+
+HTML 태그 공부하기
+참고사이트 => https://www.w3schools.com/
+참고사이트 => https://www.w3.org/
+HTML 태그 통계(태그 빈도수)
+참고사이트 => https://www.advancedwebranking.com/seo/html-study/
+
+줄바꿈 태그 관련 : 검색 -> html new line tag
+단락 바꿈 태그 관련 검색 -> html paragraph tag
+
+제목태그h1_기능:자동줄바꿈됨
+
+이미지 태그 연습
+연습 이미지 다운로드 추천 사이트 : unsplash
